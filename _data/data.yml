@@ -26,19 +26,24 @@ sidebar:
         link:
        
         
-      - item: Introduction to Artificial Intelligence
+      - item: 
+      Introduction to Artificial Intelligence
         link:
          
-      - item: Database Systems 
+      - item: 
+      Database Systems 
         link:
 
-      - item: Knowledge Discovery with Data Mining
+      - item: 
+      Knowledge Discovery with Data Mining
         link:
 
-      - item: Systems Modeling in Decision Sciences
+      - item: 
+      Systems Modeling in Decision Sciences
         link:
     
-      - item: Transportation Statistical Modeling
+      - item: 
+      Transportation Statistical Modeling
         link:
 
 
