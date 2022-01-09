@@ -25,8 +25,13 @@ sidebar:
 
       - idiom: Spanish
         level: Professional
+        
+    courses: Machine learning from data
+             ite
+    
 
     interests:
+    
       - item: Climbing
         link:
 
@@ -35,6 +40,8 @@ sidebar:
 
       - item: Cooking
         link:
+        
+    
 
 career-profile:
     title: Career Profile
