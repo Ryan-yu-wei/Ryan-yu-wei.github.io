@@ -14,18 +14,7 @@ sidebar:
     # Sidebar links
     email: yu.ryan.wei@gmail.com
     phone: 518 596 9296
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    linkedin: linkedin.com/in/yu-ryan-wei-85826722a/
 
     languages:
       - idiom: English
@@ -57,9 +46,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: PhD in Transportation Engineering (GPA 3.75/4)
+      university: Rensselaer Polytechnic Institute
+      time: 2018 - 2023
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -68,9 +57,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Bachelor in Automotive Engineering (GPA 3.75/4)
+      university: Beihang University
+      time: 2014 - 2018
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -80,87 +69,76 @@ education:
           - Bullet point
           - Bullet point
 projects:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: United States Department of Energy
+      time: Sept 2020 - Mar 2021
+      company: Reserach assistant
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Brownian bridge-based imputation technique for truck energy consumption estimation using low-resolution GPS data
+          - Develop a new imputation technique to impute the missing speed data between two consecutive GPS records to obtain high-resolution speed estimates
+          - Apply the generalized Brownian bridge concept to a discrete stochastic process while factoring the acceleration and travel distance constraints
+          - Provide accurate estimations of fuel consumption and emissions with good replication of truck speed volatility and distance traveled
+          
+    - role: Pacman AI
+      time: Mar 2020 - Jun 2020
+      company: 
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+
+          - Implement BFS, DFS, UCS, Greedy, A* searches in Python to make Pacman reach the goal
+          - Implement Q-learning to the Pacman
+          
+    - role: United States Department of Energy
+      time: Aug 2019 - Sept 2020
+      company: Research assitant
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        The effect of hours of operation: port of oakland simulation
+          - Adapt micro-simulation model to investigate how the changes in operating hours of ports will affect the energy use and emissions at the system level
+          - Calibrate the traffic demands against the observed data in the simulation model
+          - Develop 7 simulation scenarios to support detailed analyses of the effect of changes of port operation hours
+          
+    - role: Travel mode choice prediction
+      time: Nov 2019 - Dec 2019
+      company: 
+      details: |
+
+          - Predict individual travel mode choice using multiple machine learning methods
+          - Linear classification; SVM; Decision tree model; Random Forest; NN; KNN
+          - Adopt the perturbation-based approach to test the significance of variables
+          
+    - role: Transportation Forecasting Competition (2019 TRB)
+      time: Nov 2018 - Dec 2018
+      company: 
+      details: |
+
+          - Predict the average speed of all vehicles running on a segment of road, given a trajectory data of DiDi Express and DiDi Premier drivers within the Second Ring Road of Xi’An City, China
+          - Random Forest; Gradient Boosting; SVM
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Brownian bridge-based imputation technique for truck energy consumption estimation using low-resolution GPS data
+        link: https://annualmeeting.mytrb.org/OnlineProgram/Details/17294
+        authors: Xiaozheng He, Yu Wei, Jose Holguin-Veras
+        conference: Proceedings of the 101st Transportation Research Board Annual Meeting, 22-02453, Washington DC.
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python 
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: SQL
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: QGIS
+        level: 95%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Paramics
+        level: 95%
+
+      - name: VISSIM
+        level: 
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
