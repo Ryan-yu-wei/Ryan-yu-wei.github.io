@@ -39,21 +39,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Hi
 education:
     - degree: PhD in Transportation Engineering (GPA 3.75/4)
       university: Rensselaer Polytechnic Institute
       time: 2018 - 2023
       details: |
-          courses
 
-          - Machine learning from data
-          - Bullet point
     - degree: Bachelor in Automotive Engineering (GPA 3.75/4)
       university: Beihang University
       time: 2014 - 2018
