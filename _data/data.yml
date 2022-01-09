@@ -22,23 +22,23 @@ sidebar:
 
     courses:
     
-      - item: Machine Learning From Data
+      - item: Machine learning from data
         link:
        
         
-      - item: Introduction to Artificial Intelligence
+      - item: Introduction to artificial intelligence
         link:
          
-      - item: Database Systems 
+      - item: Database systems 
         link:
 
-      - item: Knowledge Discovery with Data Mining
+      - item: Knowledge discovery with data mining
         link:
 
-      - item: Systems Modeling in Decision Sciences
+      - item: Systems modeling in decision sciences
         link:
     
-      - item: Transportation Statistical Modeling
+      - item: Transportation statistical modeling
         link:
 
 
