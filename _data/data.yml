@@ -16,28 +16,33 @@ sidebar:
     phone: 518 596 9296
     linkedin: linkedin.com/in/yu-ryan-wei-85826722a/
 
-    languages:
-      - idiom: English
-        level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
         
     
 
     courses:
     
-      - item: Machine learning from data
+      - item: Machine Learning From Data
+        link:
+       
+        
+      - item: Introduction to Artificial Intelligence
+        link:
+         
+      - item: Database Systems 
         link:
 
-      - item: Snowboarding
+      - item: Knowledge Discovery with Data Mining
         link:
 
-      - item: Cooking
+      - item: Systems Modeling in Decision Sciences
         link:
+    
+      - item: Transportation Statistical Modeling
+        link:
+
+
+
         
     
 
