@@ -50,12 +50,9 @@ education:
       university: Rensselaer Polytechnic Institute
       time: 2018 - 2023
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
+          courses
+
+          - Machine learning from data
           - Bullet point
     - degree: Bachelor in Automotive Engineering (GPA 3.75/4)
       university: Beihang University
